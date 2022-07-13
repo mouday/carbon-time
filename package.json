@@ -1,0 +1,16 @@
+{
+  "name": "carbon-time",
+  "version": "1.0.1",
+  "description": "给moment.js添加类似Carbon.php的常见日期格式化功能",
+  "main": "./carbon-time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["moment", "dayjs", "carbon", "time"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dayjs": "^1.11.3",
+    "moment": "^2.29.4"
+  }
+}

@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  dayjs: ^1.11.3
+  moment: ^2.29.4
+
+devDependencies:
+  dayjs: 1.11.3
+  moment: 2.29.4
+
+packages:
+
+  /dayjs/1.11.3:
+    resolution: {integrity: sha512-xxwlswWOlGhzgQ4TKzASQkUhqERI3egRNqgV4ScR8wlANA/A9tZ7miXa44vTTKEq5l7vWoL5G57bG3zA+Kow0A==}
+    dev: true
+
+  /moment/2.29.4:
+    resolution: {integrity: sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==}
+    dev: true
