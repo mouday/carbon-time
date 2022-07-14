@@ -1,13 +1,17 @@
 {
   "name": "carbon-time",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "给moment.js添加类似Carbon.php的常见日期格式化功能",
   "main": "./carbon-time.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mouday/carbon-time"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["moment", "dayjs", "carbon", "time"],
-  "author": "",
+  "author": "Peng Shiyu",
   "license": "ISC",
   "devDependencies": {
     "dayjs": "^1.11.3",
