@@ -1,6 +1,6 @@
 {
   "name": "carbon-time",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "给moment.js添加类似Carbon.php的常见日期格式化功能",
   "main": "./carbon-time.js",
   "scripts": {
